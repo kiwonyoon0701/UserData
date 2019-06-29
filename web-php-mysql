@@ -1,3 +1,6 @@
+#include
+http://bit.ly/AWS101HOL-Linux-Userdata
+
 http://for-distribution-cwk.s3-ap-northeast-2.amazonaws.com/aws101_hol_linux_userdata.txt
 
 #!/bin/sh
